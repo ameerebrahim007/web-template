@@ -25,11 +25,11 @@ To run the server:
 
 Install JSON Server
 
-npm install -g json-server
+### `npm install -g json-server`
 
 Start JSON Server
 
-json-server --watch db.json --port 8081
+### `json-server --watch db.json --port 8081`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
