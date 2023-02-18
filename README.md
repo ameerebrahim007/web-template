@@ -27,6 +27,10 @@ Install JSON Server
 
 ### `npm install -g json-server`
 
+Go to server directory:
+### `cd .\src\`
+
+
 Start JSON Server
 
 ### `json-server --watch db.json --port 8081`
