@@ -1,0 +1,48 @@
+.zeroint {
+    background: #FFF1EB;
+    padding: 1.2rem;
+
+    .category {
+        display: flex;
+        gap: 1rem;
+        justify-content: space-between;
+        margin: 1rem;   
+        padding: 0 2rem; 
+    }
+
+    .card-title {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+    }
+
+    .card-body {
+        box-shadow: none !important;
+    }
+
+    .card-footer {
+        border: 0;
+        box-shadow: none !important;
+
+        button {
+            background: red;
+            color: white;
+        }
+    }
+
+    .price {
+        color: #040079;
+    }
+
+    .cutprice {
+        float: right;
+        text-decoration: line-through;
+    }
+
+    .time {
+        background: #f3ee01 !important;
+        font-weight: 700;
+        text-align: center;
+        margin: 0.5rem;
+    }
+}
