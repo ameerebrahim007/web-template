@@ -1,52 +1,52 @@
 {
     "subcat": [
-      { "id": 1, "title": "Mobile Phones ", "image": "/images/phone1.png" },
-      { "id": 2, "title": "Mobile Accessories", "image": "/images/image 150.png" },
-      { "id": 3, "title": "Mobile Photography Accessories", "image": "/images/image 150-1.png" },
-      { "id": 4, "title": "Tablets", "image": "/images/image 150-2.png" },
-      { "id": 5, "title": "Tablet Accessories", "image": "/images/image 150-3.png" },
-      { "id": 6, "title": "Tablet Accessories", "image": "/images/image 150-4.png" },
-      { "id": 7, "title": "Headphones & Earphones", "image": "/images/image 150-5.png" }
+      { "id": 1, "title": "Mobile Phones ", "image": "/web-template/images/phone1.png" },
+      { "id": 2, "title": "Mobile Accessories", "image": "/web-template/images/image 150.png" },
+      { "id": 3, "title": "Mobile Photography Accessories", "image": "/web-template/images/image 150-1.png" },
+      { "id": 4, "title": "Tablets", "image": "/web-template/images/image 150-2.png" },
+      { "id": 5, "title": "Tablet Accessories", "image": "/web-template/images/image 150-3.png" },
+      { "id": 6, "title": "Tablet Accessories", "image": "/web-template/images/image 150-4.png" },
+      { "id": 7, "title": "Headphones & Earphones", "image": "/web-template/images/image 150-5.png" }
     ],
     "hotdeals": [
-      { "id": 1, "time": "13Hrs : 52Min : 00Sec", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 97.png" },
-      { "id": 2, "time": "13Hrs : 52Min : 00Sec", "title": "Samsung Galaxy A53 Dual SIM Awesome White 6GB RAM 128GB 5G", "price": "AED 1275.00", "image": "/images/image 97-1.png" },
-      { "id": 3, "time": "13Hrs : 52Min : 00Sec", "title": "Adidas AD-ZNE-01-NG True Wireless True Wireless Bluetooth Earbuds Night Grey", "price": "AED 449.00", "image": "/images/image 97-2.png" },
-      { "id": 4, "time": "13Hrs : 52Min : 00Sec", "title": "XHonor Pad X8 Lite 3GB 32GB 9.7 Inch FHD Display Neo Mint", "price": "AED 475.00", "image": "/images/image 97-3.png" }
+      { "id": 1, "time": "13Hrs : 52Min : 00Sec", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 97.png" },
+      { "id": 2, "time": "13Hrs : 52Min : 00Sec", "title": "Samsung Galaxy A53 Dual SIM Awesome White 6GB RAM 128GB 5G", "price": "AED 1275.00", "image": "/web-template/images/image 97-1.png" },
+      { "id": 3, "time": "13Hrs : 52Min : 00Sec", "title": "Adidas AD-ZNE-01-NG True Wireless True Wireless Bluetooth Earbuds Night Grey", "price": "AED 449.00", "image": "/web-template/images/image 97-2.png" },
+      { "id": 4, "time": "13Hrs : 52Min : 00Sec", "title": "XHonor Pad X8 Lite 3GB 32GB 9.7 Inch FHD Display Neo Mint", "price": "AED 475.00", "image": "/web-template/images/image 97-3.png" }
     ],
     "phones": [
-      { "id": 1, "cutPrice": "AED 1099.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 1295.00", "image":"/images/image 5.png" },
-      { "id": 2, "cutPrice": "AED 440.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 1295.00", "image": "/images/image 5-1.png" },
-      { "id": 3, "cutPrice": "AED 320.00", "title": "Carrera PACE Sunglasses for Unisex Matte Black, Siz..", "price": "AED 1295.00", "image": "/images/image 5-2.png" },
-      { "id": 4, "cutPrice": "AED 729.00", "title": "RayBan RB4274 Mens Sunglasses Plastic, Nylon", "price": "AED 1295.00", "image": "/images/image 5-3.png" },
-      { "id": 5, "cutPrice": "AED 409.00", "title": "RayBan RB3025 Classic Gradient Aviator Sunglass..", "price": "AED 1295.00", "image": "/images/image 5-4.png" },
-      { "id": 6, "cutPrice": "AED 409.00", "title": "RayBan RB3025 Classic Gradient Aviator Sunglass..", "price": "AED 1295.00", "image": "/images/image 5-5.png" }
+      { "id": 1, "cutPrice": "AED 1099.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 1295.00", "image":"/web-template/images/image 5.png" },
+      { "id": 2, "cutPrice": "AED 440.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 1295.00", "image": "/web-template/images/image 5-1.png" },
+      { "id": 3, "cutPrice": "AED 320.00", "title": "Carrera PACE Sunglasses for Unisex Matte Black, Siz..", "price": "AED 1295.00", "image": "/web-template/images/image 5-2.png" },
+      { "id": 4, "cutPrice": "AED 729.00", "title": "RayBan RB4274 Mens Sunglasses Plastic, Nylon", "price": "AED 1295.00", "image": "/web-template/images/image 5-3.png" },
+      { "id": 5, "cutPrice": "AED 409.00", "title": "RayBan RB3025 Classic Gradient Aviator Sunglass..", "price": "AED 1295.00", "image": "/web-template/images/image 5-4.png" },
+      { "id": 6, "cutPrice": "AED 409.00", "title": "RayBan RB3025 Classic Gradient Aviator Sunglass..", "price": "AED 1295.00", "image": "/web-template/images/image 5-5.png" }
     ],
 
     "mobile-acc": [
-      { "id": 1, "cutPrice": "AED 1295.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 178.00", "image":"/images/image 5-6.png" },
-      { "id": 2, "cutPrice": "AED 1295.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 178.00", "image": "/images/image 5-7.png" },
-      { "id": 3, "cutPrice": "AED 1295.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 178.00", "image": "/images/image 5-8.png" },
-      { "id": 4, "cutPrice": "AED 1295.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 178.00", "image": "/images/image 5-9.png" },
-      { "id": 5, "cutPrice": "AED 1295.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 178.00", "image": "/images/image 5-10.png" },
-      { "id": 6, "cutPrice": "AED 1295.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 178.00", "image": "/images/image 5-11.png" }
+      { "id": 1, "cutPrice": "AED 1295.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 178.00", "image":"/web-template/images/image 5-6.png" },
+      { "id": 2, "cutPrice": "AED 1295.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 178.00", "image": "/web-template/images/image 5-7.png" },
+      { "id": 3, "cutPrice": "AED 1295.00", "title": "Rohan Es-HT03 Wings Folding Electric Scooter...", "price": "AED 178.00", "image": "/web-template/images/image 5-8.png" },
+      { "id": 4, "cutPrice": "AED 1295.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 178.00", "image": "/web-template/images/image 5-9.png" },
+      { "id": 5, "cutPrice": "AED 1295.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 178.00", "image": "/web-template/images/image 5-10.png" },
+      { "id": 6, "cutPrice": "AED 1295.00", "title": "ONeill Polarized Aviator Sunglasses, ONS-DECK-11..", "price": "AED 178.00", "image": "/web-template/images/image 5-11.png" }
     ],
 
     "photo-acc": [
-      { "id": 1, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5-8.png" },
-      { "id": 2, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5-9.png" },
-      { "id": 3, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5-10.png" },
-      { "id": 4, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5-11.png" },
-      { "id": 5, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5-7.png" },
-      { "id": 6, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5-7.png" }
+      { "id": 1, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5-8.png" },
+      { "id": 2, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5-9.png" },
+      { "id": 3, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5-10.png" },
+      { "id": 4, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5-11.png" },
+      { "id": 5, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5-7.png" },
+      { "id": 6, "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5-7.png" }
     ],
 
     "zero-int": [
-      { "id": 1, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5 (11).png" },
-      { "id": 2, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5 (12).png" },
-      { "id": 3, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5 (13).png" },
-      { "id": 4, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5 (14).png" },
-      { "id": 5, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/images/image 5 (15).png" }
+      { "id": 1, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5 (11).png" },
+      { "id": 2, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5 (12).png" },
+      { "id": 3, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5 (13).png" },
+      { "id": 4, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5 (14).png" },
+      { "id": 5, "time": "13Hrs : 52Min : 00Sec", "cutPrice": "AED 1295.00", "title": "Xiaomi Redmi Buds 3 Pro Graphite Black", "price": "AED 178.00", "image": "/web-template/images/image 5 (15).png" }
     ]
 
 
